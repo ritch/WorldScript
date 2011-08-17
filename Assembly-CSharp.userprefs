@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EngineScripts/Networking/ServerSpawn.js">
+    <Files>
+      <File FileName="Assets/EngineScripts/JurassicRunner.cs" Line="1" Column="1" />
+      <File FileName="Assets/EngineScripts/GameContext.cs" Line="1" Column="1" />
+      <File FileName="Assets/JSInterface/JSBlockType.cs" Line="1" Column="1" />
+      <File FileName="Assets/JSInterface/JSGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/JSInterface/JSPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/EngineScripts/Networking/ServerStart.js" Line="9" Column="2" />
+      <File FileName="Assets/EngineScripts/Networking/ServerSpawn.js" Line="26" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
